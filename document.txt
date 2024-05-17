@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 console.log("hi");
+=======
+console.log("hi");
+>>>>>>> 504295f08d79f2b7c7679603558c697d68a60d77
